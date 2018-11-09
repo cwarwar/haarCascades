@@ -2,7 +2,7 @@
 
 A small script to recognize face and eyes made with python.
 
-#Prerequisite
+## Prerequisite
 
 Install open CV. Open your console and type:
 
